@@ -232,9 +232,4 @@ The main flow (`Onboarding Orchestration Flow`) runs on HR Case creation with su
 
 ---
 
-## 📄 License
-
-This project is for portfolio and educational demonstration purposes.
-
----
 
