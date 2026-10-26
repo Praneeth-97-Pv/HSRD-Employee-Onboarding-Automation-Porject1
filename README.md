@@ -238,8 +238,3 @@ This project is for portfolio and educational demonstration purposes.
 
 ---
 
-## 👩‍💻 Author
-
-**Nekkanti Manasa Lakshmi** — CSE Data Science and Big Data Analytics HONORS B.Tech, KL University Hyderabad
-ServiceNow Certified Application Developer | Certified System Administrator
-[https://www.linkedin.com/in/manasalakshmi2110030393/](#) · [https://github.com/Manasa786-NEKKANTI](#)
