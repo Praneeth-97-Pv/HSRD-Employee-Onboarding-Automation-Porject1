@@ -1,7 +1,5 @@
 # 🧩 HRSD Employee Onboarding — Scoped Application
 
-> A fully scoped ServiceNow HRSD application for end-to-end employee onboarding, built on a Personal Developer Instance (PDI).
-
 ---
 
 ## 📌 Project Overview
