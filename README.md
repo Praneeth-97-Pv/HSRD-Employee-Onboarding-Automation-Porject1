@@ -210,8 +210,7 @@ The main flow (`Onboarding Orchestration Flow`) runs on HR Case creation with su
 
 ## 📸 Screenshots
 
-> _Add screenshots from your PDI under `<img width="1369" height="769" alt="image" src="https://github.com/user-attachments/assets/96fa1b27-f939-4d7f-848f-480f13297a54" />
-<img width="1369" height="763" alt="image" src="https://github.com/user-attachments/assets/3f0fd087-5824-4d3a-8d68-a57ac98ae916" />
+> _Add screenshots from your PDI under 
 <img width="1369" height="743" alt="image" src="https://github.com/user-attachments/assets/1def4111-f2ca-4c9c-b0e8-68b4c5e1e2ef" />
 <img width="1369" height="771" alt="image" src="https://github.com/user-attachments/assets/0f9a4d95-c618-44d3-b737-36187a2acb9d" />
 <img width="1335" height="636" alt="image" src="https://github.com/user-attachments/assets/b1cb89e1-771f-442d-bdf4-a6f923b16301" />
