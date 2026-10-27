@@ -165,10 +165,10 @@ Content-Type: application/json
 
 {
   "employee_id": "EMP-001",
-  "first_name": "Manasa",
-  "last_name": "Reddy",
-  "department": "Engineering",
-  "start_date": "2025-08-01",
+  "first_name": "Dan",
+  "last_name": "Zimmerman",
+  "department": "AMS",
+  "start_date": "2020-06-01",
   "manager_email": "manager@company.com"
 }
 ```
