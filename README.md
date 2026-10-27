@@ -204,13 +204,6 @@ The main flow (`Onboarding Orchestration Flow`) runs on HR Case creation with su
 | `/onboarding/documents` | Document upload widget (ID proof, tax forms) |
 | `/onboarding/status` | Real-time HR Case status tracker |
 
----
-
-
-
-/` after deployment._
-
----
 
 ## 🛠️ Tech Stack
 
