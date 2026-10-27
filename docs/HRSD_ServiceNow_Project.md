@@ -2,7 +2,7 @@
 
 | Document field | Details |
 | --- | --- |
-| Project context | Uber Chicago (client); Adecco, Bangalore (company) |
+| Project context | Transportation  |
 | Modules | HRSD, ITSM, ITOM, ITAM, CSM, GRC/IRM, SecOps, Service Portal, CMDB, PPM, TSOM |
 | Primary deep-dive | HR Service Delivery (HRSD) and HR integrations |
 | Document status | Portfolio-style reconstruction based on resume; not verified client internal design |
