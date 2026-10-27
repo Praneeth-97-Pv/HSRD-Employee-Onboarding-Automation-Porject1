@@ -8,6 +8,10 @@
 
 This application automates the employee onboarding lifecycle using ServiceNow's HR Service Delivery (HRSD) module. It orchestrates provisioning tasks across IT, Facilities, and Payroll departments using HR Cases, HR Tasks, and Lifecycle Events — all triggered automatically upon new hire approval.
 
+## 📄 Full Project Document
+
+The [ServiceNow Enterprise Service Delivery project document](docs/HRSD_ServiceNow_Project.md) is available in GitHub-rendered Markdown, including its diagrams and screenshots.
+
 ---
 
 ## ✨ Key Features
